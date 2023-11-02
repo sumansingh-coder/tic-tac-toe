@@ -159,3 +159,5 @@ function func9() {
 		flag = 1;
 	}
 }
+
+console.log("working")
